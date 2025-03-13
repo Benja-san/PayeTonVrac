@@ -6,7 +6,8 @@ const VRAC = [
   {
     id: "01",
     name: "Pokemon",
-    picture: "https://www.picng.com/upload/pokemon/png_pokemon_43613.png",
+    picture:
+      "https://archives.bulbagarden.net/media/upload/thumb/9/9e/0493Arceus.png/1200px-0493Arceus.png",
     intro: "Gotta catch'em all!",
     video: null,
     content: null,
@@ -15,7 +16,7 @@ const VRAC = [
   {
     id: "02",
     name: "Dogma",
-    picture: "https://www.picng.com/upload/god/png_god_42411.png",
+    picture: "https://picfiles.alphacoders.com/878/thumb-1920-87860.png",
     intro:
       "He said that faith is like a glass of water. When you're young, the glass is little, so it's easy to fill.",
     video: null,
